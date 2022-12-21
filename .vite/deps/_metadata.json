@@ -1,0 +1,182 @@
+{
+  "hash": "5c402422",
+  "browserHash": "aeef0934",
+  "optimized": {
+    "@vant/touch-emulator": {
+      "src": "../../node_modules/@vant/touch-emulator/dist/index.mjs",
+      "file": "@vant_touch-emulator.js",
+      "fileHash": "3972fc7a",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "c08f10bd",
+      "needsInterop": true
+    },
+    "echarts": {
+      "src": "../../node_modules/echarts/index.js",
+      "file": "echarts.js",
+      "fileHash": "e038cddb",
+      "needsInterop": false
+    },
+    "lodash-es": {
+      "src": "../../node_modules/lodash-es/lodash.js",
+      "file": "lodash-es.js",
+      "fileHash": "e5e4c15f",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "src": "../../node_modules/nprogress/nprogress.js",
+      "file": "nprogress.js",
+      "fileHash": "08a154e8",
+      "needsInterop": true
+    },
+    "pinia": {
+      "src": "../../node_modules/pinia/dist/pinia.mjs",
+      "file": "pinia.js",
+      "fileHash": "0f01b66d",
+      "needsInterop": false
+    },
+    "pinia-plugin-persistedstate": {
+      "src": "../../node_modules/pinia-plugin-persistedstate/dist/index.mjs",
+      "file": "pinia-plugin-persistedstate.js",
+      "fileHash": "f2256492",
+      "needsInterop": false
+    },
+    "resize-detector": {
+      "src": "../../node_modules/resize-detector/esm/index.js",
+      "file": "resize-detector.js",
+      "fileHash": "2ef27667",
+      "needsInterop": false
+    },
+    "store": {
+      "src": "../../node_modules/store/dist/store.legacy.js",
+      "file": "store.js",
+      "fileHash": "2a46efc6",
+      "needsInterop": true
+    },
+    "store/plugins/expire": {
+      "src": "../../node_modules/store/plugins/expire.js",
+      "file": "store_plugins_expire.js",
+      "fileHash": "bbda559d",
+      "needsInterop": true
+    },
+    "vant": {
+      "src": "../../node_modules/vant/es/index.mjs",
+      "file": "vant.js",
+      "fileHash": "66fb0709",
+      "needsInterop": false
+    },
+    "vant/es/dialog/style": {
+      "src": "../../node_modules/vant/es/dialog/style/index.mjs",
+      "file": "vant_es_dialog_style.js",
+      "fileHash": "ac0b45c6",
+      "needsInterop": false
+    },
+    "vant/es/image-preview/style": {
+      "src": "../../node_modules/vant/es/image-preview/style/index.mjs",
+      "file": "vant_es_image-preview_style.js",
+      "fileHash": "4552265b",
+      "needsInterop": false
+    },
+    "vant/es/notify/style": {
+      "src": "../../node_modules/vant/es/notify/style/index.mjs",
+      "file": "vant_es_notify_style.js",
+      "fileHash": "ed194b39",
+      "needsInterop": false
+    },
+    "vant/es/toast/style": {
+      "src": "../../node_modules/vant/es/toast/style/index.mjs",
+      "file": "vant_es_toast_style.js",
+      "fileHash": "d6142459",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "a2179637",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "0996e2a6",
+      "needsInterop": false
+    },
+    "vconsole": {
+      "src": "../../node_modules/vconsole/dist/vconsole.min.js",
+      "file": "vconsole.js",
+      "fileHash": "e5e87404",
+      "needsInterop": true
+    },
+    "vant/es": {
+      "src": "../../node_modules/vant/es/index.mjs",
+      "file": "vant_es.js",
+      "fileHash": "f8d603e4",
+      "needsInterop": false
+    },
+    "vant/es/config-provider/style/index": {
+      "src": "../../node_modules/vant/es/config-provider/style/index.mjs",
+      "file": "vant_es_config-provider_style_index.js",
+      "fileHash": "54258140",
+      "needsInterop": false
+    },
+    "vant/es/button/style/index": {
+      "src": "../../node_modules/vant/es/button/style/index.mjs",
+      "file": "vant_es_button_style_index.js",
+      "fileHash": "5bf6de84",
+      "needsInterop": false
+    },
+    "vant/es/empty/style/index": {
+      "src": "../../node_modules/vant/es/empty/style/index.mjs",
+      "file": "vant_es_empty_style_index.js",
+      "fileHash": "634fd20c",
+      "needsInterop": false
+    },
+    "vant/es/nav-bar/style/index": {
+      "src": "../../node_modules/vant/es/nav-bar/style/index.mjs",
+      "file": "vant_es_nav-bar_style_index.js",
+      "fileHash": "d04629ba",
+      "needsInterop": false
+    },
+    "vant/es/cell-group/style/index": {
+      "src": "../../node_modules/vant/es/cell-group/style/index.mjs",
+      "file": "vant_es_cell-group_style_index.js",
+      "fileHash": "3d17148b",
+      "needsInterop": false
+    },
+    "vant/es/tag/style/index": {
+      "src": "../../node_modules/vant/es/tag/style/index.mjs",
+      "file": "vant_es_tag_style_index.js",
+      "fileHash": "c75c4e91",
+      "needsInterop": false
+    },
+    "vant/es/cell/style/index": {
+      "src": "../../node_modules/vant/es/cell/style/index.mjs",
+      "file": "vant_es_cell_style_index.js",
+      "fileHash": "ce86d1bc",
+      "needsInterop": false
+    },
+    "vant/es/switch/style/index": {
+      "src": "../../node_modules/vant/es/switch/style/index.mjs",
+      "file": "vant_es_switch_style_index.js",
+      "fileHash": "c1e2ae92",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-WELM3JP3": {
+      "file": "chunk-WELM3JP3.js"
+    },
+    "chunk-BOM43CDS": {
+      "file": "chunk-BOM43CDS.js"
+    },
+    "chunk-R7WEDDNE": {
+      "file": "chunk-R7WEDDNE.js"
+    },
+    "chunk-FAW2VN4A": {
+      "file": "chunk-FAW2VN4A.js"
+    }
+  }
+}
